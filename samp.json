@@ -1,0 +1,9 @@
+{
+	"gamemodes": [
+		"SAOIT"
+	],
+	"rcon_password": "SAOIT0",
+	"port": 7777,
+	"hostname": "San Andreas Online IT",
+	"maxplayers": 10
+}

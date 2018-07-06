@@ -1,0 +1,9 @@
+{
+	"user": "MetroShonen",
+	"repo": "SAOIT",
+	"entry": "gamemodes\\SAOIT.pwn",
+	"output": "gamemodes\\SAOIT.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
