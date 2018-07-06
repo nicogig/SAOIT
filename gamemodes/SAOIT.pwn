@@ -1,4 +1,4 @@
-#include <a_samp> 
+#include <a_samp> O
 
 //KEY DEFINES=================================================//
 #define HOLDING(%0) \
