@@ -2,9 +2,11 @@
 	"gamemodes": [
 		"SAOIT"
 	],
-	"rcon_password": "SAOIT0",
+	"filterscripts": [
+		"bevi"
+	],
+	"rcon_password": "/-WeNd601,!!",
 	"port": 7777,
-	"hostname": "San Andreas Online IT",
-	"maxplayers": 10,
-	"filterscripts": ["weapons"]
+	"hostname": "25.60.252.116",
+	"maxplayers": 32
 }
