@@ -1,11 +1,10 @@
 {
 	"user": "MetroShonen",
-	"repo": "SAOIT",
-	"entry": "gamemodes\\SAOIT.pwn",
-	"output": "gamemodes\\SAOIT.amx",
+	"repo": "SAOdebug",
+	"entry": "SAOdebug.pwn",
+	"output": "SAOdebug.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"pawn-lang/YSI-includes",
 		"Southclaws/zcmd"
 	],
 	"runtime": {

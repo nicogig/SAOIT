@@ -1,4 +1,6 @@
-#include <a_samp> O
+#include <a_samp> 
+#include <zcmd>
+#include "DebugTemp\SAOdebug"
 
 //KEY DEFINES=================================================//
 #define HOLDING(%0) \
@@ -50,5 +52,4 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
 {
     return 1;
 }
-
 
